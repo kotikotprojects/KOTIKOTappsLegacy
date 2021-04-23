@@ -1,4 +1,7 @@
 import urllib.request, os
 
-url = 'https://raw.githubusercontent.com/BarsTiger/catbench/main/CatBench.py'
-urllib.request.urlretrieve(url, 'D:\lol\catbench.py')
+launchfolder = os.getcwd()
+offprojects = launchfolder + "\OfficialProjects"
+
+if not os.path.exists(offprojects):
+    os.mkdir(offprojects)

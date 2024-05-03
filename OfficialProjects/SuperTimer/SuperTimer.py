@@ -25,7 +25,7 @@ while timeInSuperSeconds > 0:
     if timeInSuperSeconds <= 1:
         if not os.path.isfile('alarm.mp3'):
             urllib.request.urlretrieve(
-                "https://github.com/BarsTiger/KOTIKOTapps_download_repo/blob/master/FilesForDownloading/alarm.mp3?raw=true",
+                "https://github.com/kotikotprojects/KOTIKOTappsLegacy/blob/master/FilesForDownloading/alarm.mp3?raw=true",
                 'alarm.mp3')
     time.sleep(superSecond)
 

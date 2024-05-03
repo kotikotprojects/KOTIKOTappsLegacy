@@ -1,6 +1,6 @@
 @echo off
 @echo ----- Downloadig Install-KOTIKOT_launcher from my GitHub ------------------------------------
-powershell -command iwr https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/LauncherInstaller/Install-KOTIKOT_launcher.py -OutFile Install-KOTIKOT_launcher.py
+powershell -command iwr https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/LauncherInstaller/Install-KOTIKOT_launcher.py -OutFile Install-KOTIKOT_launcher.py
 @echo ----- If you have Python, just close this window now ----------------------------------------
 ping -n 3 localhost > nul
 ping -n 3 localhost > nul

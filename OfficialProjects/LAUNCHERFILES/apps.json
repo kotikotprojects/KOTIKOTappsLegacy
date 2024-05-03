@@ -1,7 +1,7 @@
 {
     "AutoShipper":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/AutoShipper/autoshipper.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/AutoShipper/autoshipper.py"],
             "dir": "AutoShipper",
             "runtime": "python",
             "run": "autoshipper.py",
@@ -9,7 +9,7 @@
         },
     "Bars`s \nauto \nbridger":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/AutoBridger/AutoBridge.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/AutoBridger/AutoBridge.py"],
             "dir": "AutoBridger",
             "runtime": "python",
             "run": "AutoBridge.py",
@@ -17,7 +17,7 @@
         },
     "CatBench":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/CatBench/CatBench.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/CatBench/CatBench.py"],
             "dir": "CatBench",
             "runtime": "python",
             "run": "CatBench.py",
@@ -25,7 +25,7 @@
         },
     "autoPage\nRestarter":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/CoolAutoPressers/autoPageRestarter.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/CoolAutoPressers/autoPageRestarter.py"],
             "dir": "autoPageRestarter",
             "runtime": "python",
             "run": "autoPageRestarter.py",
@@ -33,7 +33,7 @@
         },
     "Files connector":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/FilesConnector/FilesConnector.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/FilesConnector/FilesConnector.py"],
             "dir": "FilesConnector",
             "runtime": "python",
             "run": "FilesConnector.py",
@@ -41,7 +41,7 @@
         },
     "Meowarch":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/meowarch/meowarch.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/meowarch/meowarch.py"],
             "dir": "meowarch",
             "runtime": "python",
             "run": "meowarch.py",
@@ -49,7 +49,7 @@
         },
     "PyQtConverter":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/PyQtConverter/PyQtConverter.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/PyQtConverter/PyQtConverter.py"],
             "dir": "PyQtConverter",
             "runtime": "python",
             "run": "PyQtConverter.py",
@@ -57,7 +57,7 @@
         },
     "File generator":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/RandomBigOrSmallFileCreator/fileGenerator.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/RandomBigOrSmallFileCreator/fileGenerator.py"],
             "dir": "fileGenerator",
             "runtime": "python",
             "run": "fileGenerator.py",
@@ -65,7 +65,7 @@
         },
     "SuperTimer":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/SuperTimer/SuperTimer.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/SuperTimer/SuperTimer.py"],
             "dir": "SuperTimer",
             "runtime": "python",
             "run": "SuperTimer.py",
@@ -73,7 +73,7 @@
         },
     "KotoGameScam":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/KotoGameScam/KotoGameScam.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/KotoGameScam/KotoGameScam.py"],
             "dir": "KotoGameScam",
             "runtime": "python",
             "run": "KotoGameScam.py",
@@ -81,7 +81,7 @@
         },
     "noHiddenText":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/noHiddenText/noHiddenText.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/noHiddenText/noHiddenText.py"],
             "dir": "noHiddenText",
             "runtime": "python",
             "run": "noHiddenText.py",
@@ -89,7 +89,7 @@
         },
     "Bars`s \nauto \nbridger 2":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/AutoBridger2/AutoBridger2.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/AutoBridger2/AutoBridger2.py"],
             "dir": "AutoBridger2",
             "runtime": "python",
             "run": "AutoBridger2.py",
@@ -97,7 +97,7 @@
         },
     "KOTO_LAN\nControl":
          {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/KOTO_LAN_Control/KOTO_LAN_Control.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/KOTO_LAN_Control/KOTO_LAN_Control.py"],
             "dir": "KOTO_LAN_Control",
             "runtime": "python",
             "run": "KOTO_LAN_Control.py",
@@ -105,7 +105,7 @@
         },
     "KotoGTAsingler":
         {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/KotoGTAsingler/KotoGTAsingler.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/KotoGTAsingler/KotoGTAsingler.py"],
             "dir": "KotoGTAsingler",
             "runtime": "python",
             "run": "KotoGTAsingler.py",
@@ -113,7 +113,7 @@
         },
     "KotoPython\nCompiler":
          {
-            "urls": ["https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/KotoPythonCompiler/KotoPythonCompiler.py"],
+            "urls": ["https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/KotoPythonCompiler/KotoPythonCompiler.py"],
             "dir": "KotoPythonCompiler",
             "runtime": "python",
             "run": "KotoPythonCompiler.py",

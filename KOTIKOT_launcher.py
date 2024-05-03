@@ -12,12 +12,12 @@ except:
 launchfolder = os.getcwd()
 offprojects = launchfolder + "/OfficialProjects/"
 launcherfiles = offprojects + "/LAUNCHERFILES/"
-launcherurl = "https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/KOTIKOT_launcher.py"
-guiurl = "https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/LAUNCHERFILES/KOTIKOTlauncherMain.py"
-reminderurl = "https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/LAUNCHERFILES/KOTIKOTlauncherReminder.py"
-settingsurl = "https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/LAUNCHERFILES/KOTIKOTlauncherSettings.py"
-launcherversionurl = "https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/LAUNCHERFILES/v"
-appslisturl = "https://raw.githubusercontent.com/BarsTiger/KOTIKOTapps_download_repo/master/OfficialProjects/LAUNCHERFILES/apps.json"
+launcherurl = "https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/KOTIKOT_launcher.py"
+guiurl = "https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/LAUNCHERFILES/KOTIKOTlauncherMain.py"
+reminderurl = "https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/LAUNCHERFILES/KOTIKOTlauncherReminder.py"
+settingsurl = "https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/LAUNCHERFILES/KOTIKOTlauncherSettings.py"
+launcherversionurl = "https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/LAUNCHERFILES/v"
+appslisturl = "https://raw.githubusercontent.com/kotikotprojects/KOTIKOTappsLegacy/master/OfficialProjects/LAUNCHERFILES/apps.json"
 
 
 # ---------------- Checking folders ----------------

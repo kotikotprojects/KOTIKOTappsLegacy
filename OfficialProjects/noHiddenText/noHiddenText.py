@@ -100,7 +100,7 @@ whattodo = int(input("1 - Create own noHiddenText certificate; 2 - Read someone'
 if whattodo == 1:
     print("\nYou can use this noHiddenText certificate: " + create())
     print("Availible download noHiddenText stamp for your document: ")
-    print("https://github.com/BarsTiger/KOTIKOTapps_download_repo/tree/master/FilesForDownloading/noHiddenTextStamps")
+    print("https://github.com/kotikotprojects/KOTIKOTappsLegacy/tree/master/FilesForDownloading/noHiddenTextStamps")
     input("To exit, press Enter")
 
 elif whattodo == 2:
